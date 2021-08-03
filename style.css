@@ -3,8 +3,8 @@ h1 {
     width: 1105px;
     height: 90px;
     font-family: '游明朝';
-    color: rgb(32, 113, 167);
-    background-color: rgb(58, 170, 204);
+    color: rgb(142, 91, 199);
+    background-color: rgb(124, 200, 223);
     }
 
 a:link {
@@ -92,8 +92,7 @@ h3 {font-size: 40px;
     color: rgb(32, 113, 167);
     background-color: rgb(58, 170, 204);
     }
-body {
-    background: url("https://i.ibb.co/f4D5VJK/image.jpg") no-repeat left / 100% auto;
-    }  
+body {color: rgb(93, 131, 158);
+     }  
 
 
